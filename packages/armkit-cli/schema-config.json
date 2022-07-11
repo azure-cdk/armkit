@@ -10,7 +10,6 @@
     "2020-06-01/Microsoft.AppConfiguration",
     "2020-07-01/Microsoft.AppPlatform",
     "2020-10-01/Microsoft.Attestation",
-    "2019-09-01/Microsoft.Authorization",
     
     "2017-06-01/Microsoft.AzureStack",
     "2021-01-01/Microsoft.Batch",
@@ -82,7 +81,6 @@
     "2021-02-01/Microsoft.Maps",
     "2020-12-01/Microsoft.Marketplace",
     
-    "2021-01-01/Microsoft.Migrate",
     "2021-01-01/Microsoft.MixedReality",
     "2020-12-01/Microsoft.NetApp",
     

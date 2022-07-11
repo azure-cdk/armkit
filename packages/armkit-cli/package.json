@@ -54,9 +54,9 @@
     ]
   },
   "dependencies": {
-    "@apidevtools/json-schema-ref-parser": "^8.0.0",
+    "@apidevtools/json-schema-ref-parser": "8.0.0",
     "@types/change-case": "^2.3.1",
-    "@types/json-schema": "^7.0.4",
+    "@types/json-schema": "7.0.4",
     "@types/node": "^13.7.7",
     "@types/yargs": "^15.0.4",
     "async-parallel": "^1.2.3",
@@ -65,7 +65,7 @@
     "eslint": "^7.7.0",
     "fs": "^0.0.1-security",
     "fs-extra": "^8.1.0",
-    "json-schema": "^0.2.5",
+    "json-schema": "0.2.5",
     "path": "^0.12.7",
     "typescript": "^3.8.3",
     "yargs": "^15.1.0"

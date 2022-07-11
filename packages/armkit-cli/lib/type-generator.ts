@@ -32,7 +32,7 @@ export class TypeGenerator {
         const copy: JSONSchema4 = { ...def.schema };
 
         copy.required = copy.required || [];
-        copy.required = copy.required.filter(x => x !== 'apiVersion' && x !== 'kind' && x !== 'status');
+        copy.required = (copy.required as any[]).filter(x => x !== 'apiVersion' && x !== 'kind' && x !== 'status');
 
         return copy;
       }
